@@ -1,0 +1,3 @@
+# Never leave this file empty
+domain.example.abc
+# ProhibitionWorldCut/discordzapret 42e7d1675a59
